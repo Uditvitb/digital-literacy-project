@@ -1,0 +1,14 @@
+Stay Safe Online Checklist
+
+
+1.To send money, use PINs; but do not use PIN to receive money.
+2.Do not open suspicious links that come through SMS saying that your bank account or SIM card will be blocked.
+3.Two-Factor Authentication (2FA) should be turned on in all of your social media and email accounts.
+4.Each account should have a unique and complex passwords; use a password manager where appropriate.
+5.Ensure that the operating systems on your laptop and your smartphone are up-to-date in order to address security vulnerabilities.
+6.Don’t use free or unprotected Wi-Fi networks to do online banking or access sensitive portals.
+7.Check the email address of the sender of the email message before downloading any attachments, regardless of whether it appears to be an email address of a professor or the university.
+8.Post less about yourself on social media to avoid identity theft.
+Reporting
+cybercrime.gov.in
+Helpline: 1930
